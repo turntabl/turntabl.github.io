@@ -417,7 +417,7 @@ a {
   color: inherit; }
 
 .link {
-  color: #6C63FF;
+  color: #ad5389;
   text-decoration: underline; }
   @media (min-width: 992px) {
     .link:hover {
@@ -427,8 +427,8 @@ button, .button {
   display: inline-block;
   padding: 6pt 20pt;
   line-height: 1.7;
-  border: 1px solid #6C63FF;
-  color: #6C63FF;
+  border: 1px solid #ad5389;
+  color: #ad5389;
   font-weight: 400;
   transition: 0.7s;
   white-space: nowrap;
@@ -447,8 +447,8 @@ button, .button {
       color: #463aff; } }
 
 .button__primary {
-  background-color: #6C63FF;
-  border-color: #6C63FF;
+  background-color: #ad5389;
+  border-color: #ad5389;
   color: #fff; }
   @media (min-width: 992px) {
     .button__primary:hover {
@@ -457,8 +457,8 @@ button, .button {
       color: #fff; } }
 
 .button__accent {
-  background-color: #06d19c;
-  border-color: #06d19c;
+  background-color: #048e6a;
+  border-color: #048e6a;
   color: #fff; }
   @media (min-width: 992px) {
     .button__accent:hover {
@@ -646,8 +646,8 @@ select {
 
 [type="radio"]:checked + label:after {
   border-radius: 50%;
-  border: 1px solid #6C63FF;
-  background-color: #6C63FF;
+  border: 1px solid #ad5389;
+  background-color: #ad5389;
   z-index: 0;
   transform: scale(1.02); }
 
@@ -712,8 +712,8 @@ select {
   height: 18px;
   border-top: 2px solid transparent;
   border-left: 2px solid transparent;
-  border-right: 2px solid #06d19c;
-  border-bottom: 2px solid #06d19c;
+  border-right: 2px solid #048e6a;
+  border-bottom: 2px solid #048e6a;
   transform: rotate(40deg);
   backface-visibility: hidden;
   transform-origin: 100% 100%; }
@@ -734,7 +734,7 @@ select {
   position: fixed;
   z-index: 100;
   width: 100%;
-  background-color: #6C63FF;
+  background-color: #ad5389;
   transition: 0.7s; }
   .navbar--nofixed {
     position: relative;
@@ -872,13 +872,13 @@ select {
   width: 100%;
   opacity: 0.96;
   z-index: 1;
-  background-color: #6C63FF; }
+  background-color: #ad5389; }
 
 .hero__overlay--gradient {
-  background: linear-gradient(to right, #6C63FF, #4641FF); }
+  background: linear-gradient(to right, #ad5389, #3c1053); }
 
 .hero__overlay--gradientVertical {
-  background: linear-gradient(to bottom, #6C63FF, #4641FF); }
+  background: linear-gradient(to bottom, #ad5389, #3c1053); }
 
 .hero__mask {
   position: absolute;
@@ -941,7 +941,7 @@ select {
   cursor: pointer; }
   @media (min-width: 992px) {
     .hero__sub__down:hover {
-      color: #6C63FF; } }
+      color: #ad5389; } }
 
 #scrollToNext {
   transition: 0.7s; }
@@ -1054,19 +1054,19 @@ select {
   max-width: 60ch; }
 
 .cta {
-  background: linear-gradient(to right, #6C63FF, #4641FF);
+  background: linear-gradient(to right, #ad5389, #3c1053);
   color: #fff;
   padding: 48pt 0;
   text-align: center; }
 
 .cta--reverse {
-  background: linear-gradient(to left, #6C63FF, #4641FF); }
+  background: linear-gradient(to left, #ad5389, #3c1053); }
 
 .cta--plain {
-  background: #6C63FF; }
+  background: #ad5389; }
 
 .cta--secondary {
-  background: #4641FF; }
+  background: #3c1053; }
 
 .cta__title {
   color: inherit; }
@@ -1096,7 +1096,7 @@ select {
   padding-right: 16pt;
   display: block;
   cursor: pointer;
-  color: #6C63FF;
+  color: #ad5389;
   font-size: 1.225rem;
   min-width: 33%;
   margin-bottom: 1.5rem; }
@@ -1128,8 +1128,8 @@ select {
   margin-bottom: 8pt; }
 
 .footer__link {
-  color: #6C63FF;
-  border-bottom: 1px dotted #6C63FF;
+  color: #ad5389;
+  border-bottom: 1px dotted #ad5389;
   padding-bottom: 1pt;
   transition: 0.7s; }
   @media (min-width: 992px) {
@@ -1355,11 +1355,11 @@ select {
         opacity: 0.85; }
         .vMenu a:hover {
           opacity: 1;
-          color: #6C63FF; }
+          color: #ad5389; }
         .vMenu a:after {
           display: block;
           content: '';
-          border-bottom: 1px solid #6C63FF;
+          border-bottom: 1px solid #ad5389;
           transform: scaleX(0);
           transition: transform 250ms ease-in-out; }
         .vMenu a:hover:after {
@@ -1377,17 +1377,17 @@ select {
       margin-right: 0.5em; }
 
 .vMenu--active {
-  color: #6C63FF; }
+  color: #ad5389; }
   .vMenu--active:before {
     content: "\2014";
     margin-right: 0.333em; }
   @media (min-width: 992px) {
     .vMenu--active {
       opacity: 1;
-      color: #6C63FF; }
+      color: #ad5389; }
       .vMenu--active:after {
         display: block;
         content: '';
-        border-bottom: 1px solid #6C63FF;
+        border-bottom: 1px solid #ad5389;
         transform: none;
         transition: none; } }
