@@ -28,7 +28,7 @@ Within the company we will create an environment free of discrimination and fear
 
 Each year, as part of the compensation system of Turntabl, employees will receive shares in the company. Employees will act with pride and responsibility towards the company they part own.
 
-## How will Turntable behave towards the outside world
+## How will Turntabl behave towards the outside world
 
 We have already gained so much personally from the fantastic people of Ghana. We expect the business to be a rewarding personal experience for ourselves and for the other employees. As such we feel that all of us at Turntabl will always owe an obligation to the people of Ghana. What that means is that each of us have to find a way to give back to the country.
 
