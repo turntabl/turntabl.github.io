@@ -18,11 +18,11 @@ Situated in West Africa close to the Greenwich meridian, Ghana spends half the y
  
 As the official language, English is spoken widely and fluently – higher education is conducted in English. Generally, levels of spoken English and comprehension are higher than other popular technology locations such as India, China and Mexico.
  
-Turntabl’s unique blend of proven expertise from Western companies and local knowledge will deliver the cost and capability benefits of Ghana to your business on a sound ethical basis that we can all be proud to participate in. Read more about the ethical aspect of our work in Ghana <a href="aims">here</a>.
+Turntabl’s unique blend of proven expertise from Western companies and local knowledge will deliver the cost and capability benefits of Ghana to your business on a sound ethical basis that we can all be proud to participate in. Read more about the ethical aspect of our work in Ghana <a href="aims" class="link">here</a>.
 
 ### How Turntabl delivers the promise of Ghana to a business
 
-Working alongside <a href="https://globalcode.org.uk/">Global Code</a>, we’ve already built a region-leading talent pipeline. We work hard to locate and recruit talented young people, and we provide them with mentoring, support, and volunteering and teaching opportunities in their university years.
+Working alongside <a href="https://globalcode.org.uk/" class="link">Global Code</a>, we’ve already built a region-leading talent pipeline. We work hard to locate and recruit talented young people, and we provide them with mentoring, support, and volunteering and teaching opportunities in their university years.
  
 We then invite select students to join turntabl and participate in our multi-month training programme. Using our many years of experience in graduate training for Fortune 500 companies we have carefully crafted a programme to meet the demands of modern IT.
 
@@ -40,4 +40,4 @@ While Ghana is already a great place for businesses, the medium term opportunity
 
 This pool of youthful talent will provide engineers for years to come. Working with turntabl now enables you to get acquainted with the landscape in Ghana while reaping real benefits today.
 
-To find out more please contact us at <a href="mailto:interest@turntabl.io">interest@turntabl.io</a>.  We will provide a dedicated person to work with you on a best in class technology sourcing solution.
+To find out more please contact us at <a href="mailto:interest@turntabl.io" class="link">interest@turntabl.io</a>.  We will provide a dedicated person to work with you on a best in class technology sourcing solution.
