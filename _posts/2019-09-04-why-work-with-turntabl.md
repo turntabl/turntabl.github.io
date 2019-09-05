@@ -8,7 +8,7 @@ date:  2019-09-04 17:26:04 +0000
 
 Turntabl is a technical partner that combines decades of Fortune 500 technology and training experience with a track record in Ghana. We provide highly motivated engineers managed by staff seasoned in western companies.
 
-**Engineers will become available in January 2020**: now is a great time to start working with turntabl to create value for money technology sourcing for your company.
+**Engineers will become available in January 2020: now is a great time to start working with turntabl to create value for money technology sourcing for your company.**
 
 ### Ghana is emerging as a great place to do business
 
