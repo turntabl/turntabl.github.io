@@ -3,7 +3,7 @@ layout: post
 title: "Guest Post: Christiana"
 date:  2019-11-20 17:26:04 +0000
 summary: "This program bridges university education with real world projects"
-author: @"turntablio"
+author: "@turntablio"
 image: "/assets/images/christiana-1.jpg"
 ---
 
