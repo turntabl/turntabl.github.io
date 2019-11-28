@@ -4,13 +4,13 @@ title: "Guest Post: Christiana"
 date:  2019-11-20 17:26:04 +0000
 summary: "This program bridges university education with real world projects"
 author: "turntablio"
-image: "/assets/images/christiana-1.jpg"
+image: "/images/christiana-1.jpg"
 ---
 
 We're just over halfway through our 9-week training program, so please enjoy this recap from Christiana:
 
 --
-![Christiana](/assets/images/christiana-1.jpg "Christiana in class at turntabl")
+![Christiana](/images/christiana-1.jpg "Christiana in class at turntabl")
 
 During these past five weeks, the TLC program has been highly engaging and an awesome experience. This program bridges university education with real world projects. At university, it’s all about studying and taking exams but this training program has allowed me to apply what I learned. The comprehensive skills acquired through TLC so far has definitely provided me with the tools necessary as an up and coming Software Engineer.  
 
