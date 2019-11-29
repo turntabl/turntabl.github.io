@@ -18,7 +18,7 @@ Situated in West Africa close to the Greenwich meridian, Ghana spends half the y
  
 As the official language, English is spoken widely and fluently – higher education is conducted in English. Generally, levels of spoken English and comprehension are higher than other popular technology locations such as India, China and Mexico.
  
-Turntabl’s unique blend of proven expertise from Western companies and local knowledge will deliver the cost and capability benefits of Ghana to your business on a sound ethical basis that we can all be proud to participate in. Read more about the ethical aspect of our work in Ghana <a href="aims" class="link">here</a>.
+Turntabl’s unique blend of proven expertise from Western companies and local knowledge will deliver the cost and capability benefits of Ghana to your business on a sound ethical basis that we can all be proud to participate in. Read more about the ethical aspect of our work in Ghana <a href="/aims" class="link">here</a>.
 
 ### How Turntabl delivers the promise of Ghana to a business
 
