@@ -2,7 +2,7 @@
 layout: post
 title: "Guest Post: Doreen"
 date:  2019-11-20 17:26:04 +0000
-summary: "'This program bridges university education with real world projects'"
+summary: "I am learning at a much faster rate than I have ever learned before"
 author: "turntablio"
 image: "/images/doreen-1.jpg"
 ---
@@ -21,7 +21,7 @@ We were introduced to using the Spring framework as a dependency injection as we
 
 We have adopted some useful tips as developers as well. As developers, we always want to have our code compile successfully all the time but in reality we know that isn’t the case at all. Once we see those red lines appearing on our screens, we have this sinking feeling in our guts. I believe that the main reason why we hate to see error messages is because we don’t actually read them. Even though some reasons for the error messages are so annoying especially the ones you get when you forgot to add a semicolon somewhere and once you realize the cause of the errors was something so minute, we feel like just smashing our computers against the wall, most of them are quite helpful and even go as far as even giving you hints or suggestions on how to solve them. When I see error messages, I still get that sinking feeling but I now read them and know where to spot the exact error message among the other messages that are displayed.Our mantra here is ‘git add, git commit, git push’. Another helpful and significant work ethic we have adopted in the course of the training.
 
-One of the major reasons I decided to join turntabl was because of the plan Sam has in relation to volunteering. When we actually start to work for clients, we dedicate a portion of our time to do some volunteering work which involves teaching ICT in some basic schools and also helping out in Global Code. To find out more about global code please visit this link and if you decide to also help, we will very much appreciate it. We are currently in the last phase of the training where we will be given projects to work on for two whole weeks. I seriously don’t know what to expect but one thing I know is that it’s going to be one heck of a project.
+One of the major reasons I decided to join turntabl was because of the plan Sam has in relation to volunteering. When we actually start to work for clients, we dedicate a portion of our time to do some volunteering work which involves teaching ICT in some basic schools and also helping out in <a href="https://globalcode.org.uk/" class="link">Global Code</a>. We are currently in the last phase of the training where we will be given projects to work on for two whole weeks. I seriously don’t know what to expect but one thing I know is that it’s going to be one heck of a project.
 
 --
 
