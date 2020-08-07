@@ -3,11 +3,11 @@ layout: jobpost
 title: "Mid-Level Software Engineer"
 date:  2020-03-20 17:26:04 +0000
 author: "turntablio"
-image: "/images/doreen-1.jpg"
+image: "/images/midlevel_engineer.svg"
 category: jobs
 ---
 
-![Doreen](/images/doreen-1.jpg "Doreen in class at turntabl")
+![midlevel software engineer](/images/midlevel_engineer.svg "undraw software engineer")
 
 Turntabl.io is growing in Ghana! We're a software agency with an international client base and we're looking for mid-level engineers to help manage juniors, projects, and clients.
 
