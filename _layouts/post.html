@@ -27,7 +27,7 @@ layout: default
 
 				<ul class="vMenu">
 
-					{% for post in site.posts limit:5 %}
+					{% for post in site.categories.blogs limit:5 %}
 					<li>
 						{% if post.url == page.url %}
 						<a href="{{ post.url }}" class="vMenu--active">{{ post.title }}</a>
