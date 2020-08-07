@@ -11,7 +11,7 @@ category: jobs
 
 Turntabl.io is growing in Ghana! We're a software agency with an international client base and we're looking for mid-level engineers to help manage juniors, projects, and clients.
 
-Experience of building large software projects is critical. If you're ready to move to the next level, help nurture a generation of engineers, and help a Ghana-owned software company grow, please reach out for info (stoirm@turntabl.io).
+Experience of building large software projects is critical. If you're ready to move to the next level, help nurture a generation of engineers, and help a Ghana-owned software company grow, please reach out for info <a href="mailto:stoirm@turntabl.io" class="link">stoirm@turntabl.io.</a>.
 
 We can hire in the UK or Ghana; you'd be working in our office in Accra, Ghana. It will be a minimum requirement to spend 2 weeks per quarter in Ghana. To have the desire to go to and experience Ghana is essential, for us it’s a perk of the job not a burden!
 
