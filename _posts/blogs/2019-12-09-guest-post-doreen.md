@@ -5,6 +5,7 @@ date:  2019-11-20 17:26:04 +0000
 summary: "I am learning at a much faster rate than I have ever learned before"
 author: "turntablio"
 image: "/images/doreen-1.jpg"
+category: blogs
 ---
 
 ![Doreen](/images/doreen-1.jpg "Doreen in class at turntabl")

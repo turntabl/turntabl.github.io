@@ -2,6 +2,7 @@
 layout: post
 title: "Africa is not a country (again)"
 date:  2019-06-17 17:26:04 +0000
+category: blogs
 ---
 
 We are not the first to comment on the lazy habit of some of those in the West who accidentally view Africa as a single country.  Prominent politicians and other public figures have been called out for this slip of the tongue, and many media articles have described the damage that this mindset causes. 

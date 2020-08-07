@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Turntabl Jobs
-#layout: landing
 ---
 
 <!-- Hero unit -->
@@ -19,13 +17,14 @@ title: Turntabl Jobs
 		</div>
 	</div>
 </div>
-
-
 <!-- Page content -->
 <div class="page">
 	<div class="container">
 		<div class="page__inner">
 			<div class="page__menu">
+
+
+
 				<ul class="vMenu">
 
 					{% for post in site.categories.jobs limit:5 %}
@@ -41,12 +40,8 @@ title: Turntabl Jobs
 			</div>
 			<div class="page__main">
 				<div class="text-container">
-					{% for post in site.categories.jobs %}
-					<li>
-						{{ post.date | date_to_long_string }} <a class="link" href="{{ post.url }}">{{ post.title }}</a>
-						{{ post.excerpt }}
-					</li>
-					{% endfor %}
+					<h3 class="page__main__title">{{page.title}}</h3>
+					<p>{{content}}</p>
 				</div>
 			</div>
 		</div>

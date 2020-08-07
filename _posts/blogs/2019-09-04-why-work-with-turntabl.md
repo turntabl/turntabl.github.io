@@ -2,6 +2,7 @@
 layout: post
 title: "Why work with turntabl?"
 date:  2019-09-04 17:26:04 +0000
+category: blogs
 ---
 
 ## Why Turntabl?

@@ -2,6 +2,7 @@
 layout: post
 title: "Turntabl - April Progress"
 date:  2019-04-01 17:26:04 +0000
+category: blogs
 ---
 
 In these posts we're hoping to give brief updates as to what we're doing and what progress we're making.
