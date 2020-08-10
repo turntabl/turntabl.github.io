@@ -1,7 +1,7 @@
 ---
 layout: jobpost
 title: "Mid-Level Software Engineer"
-date:  2020-03-20 17:26:04 +0000
+date:  2020-08-03 17:26:04 +0000
 author: "turntablio"
 image: "/images/midlevel_engineer.svg"
 category: jobs
