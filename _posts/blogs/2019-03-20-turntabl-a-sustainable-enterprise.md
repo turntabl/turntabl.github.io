@@ -2,6 +2,7 @@
 layout: post
 title: "Turntabl - A Sustainable Enterprise"
 date:  2019-03-20 17:26:04 +0000
+category: blogs
 ---
 
 We're setting up Turntabl to make a difference in Ghana. It is our aim to develop a sustainable enterprise with a quality focus and a global outlook. We aim for Turntabl to provide all the employees, including ourselves, with a good wage. At the same time we want to make as much positive change as possible. Ultimately we intend to part with the company, giving it away so that its wealth creation can benefit Ghana to the fullest.

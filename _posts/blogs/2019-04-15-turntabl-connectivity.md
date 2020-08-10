@@ -2,6 +2,7 @@
 layout: post
 title: "Turntabl - Internet Connectivity in Accra"
 date:  2019-04-15 17:26:04 +0000
+category: blogs
 ---
 
 As an IT services company, we’re absolutely dependent on an internet connection.
