@@ -33,7 +33,7 @@ We can hire in the UK or Ghana; you'd be working in our office in Accra, Ghana. 
 - Agile software delivery
 
 ### Inclusivity
-We’re not into the status quo. To us, a successful team is born out of a diverse team. Creating a culture of  equality is not just the right thing to do, it’s the smart thing to do. Diversity breeds innovation, which is why we encourage all our employees to be their authentic selves - when applying we encourage you to do the same!</br>
+We’re not into the status quo. To us, a successful team is born out of a diverse team. Creating a culture of  equality is not just the right thing to do, it’s the smart thing to do. Diversity breeds innovation, which is why we encourage all our employees to be their authentic selves - when applying we encourage you to do the same!
 
 
 Pay is negotiable. In return we can offer rapid personal and professional development through training, mentoring, and taught classes; opportunities with our associated nonprofit <a href="https://globalcode.org.uk/" class="link">Global Code</a>; a young and vibrant office environment in Ghana; and the opportunity to give back in a fundamental practical way.
